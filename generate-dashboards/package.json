@@ -1,0 +1,13 @@
+{
+  "name": "grafana-dashboards",
+  "version": "1.0.0",
+  "main": "genDash.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node genDash"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "grafana-dash-gen": "^3.1.0"
+  }
+}
