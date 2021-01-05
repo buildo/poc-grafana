@@ -7,7 +7,7 @@
     "start": "node genDash"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "grafana-dash-gen": "^3.1.0"
   }
 }
